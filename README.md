@@ -19,4 +19,4 @@ Its important to consider the user's needs when designing as in the end they're 
 
 5) How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-
+I approach designing software in a very linear way. I make a plan, lay it out, and see what needs to be done. Once I have a general idea and plan to follow I just start working away. For future analyzations and designs, I will do my best to try and break them down into their simplest components and then go from there.
