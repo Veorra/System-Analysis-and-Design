@@ -15,4 +15,8 @@ If I could choose one aspect on these documents to revise, I would revise the Ga
 
 4) How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
+Its important to consider the user's needs when designing as in the end they're the ones that are gonna be using the product. If the product is not user friendly then there was no point in creating said product as the users won't even use it for its intened purpose. I interpreted the user's needs by placing myself in their shoes and thinking about how I would want the application to function and what needs to be done to make it work.
+
+5) How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
 
